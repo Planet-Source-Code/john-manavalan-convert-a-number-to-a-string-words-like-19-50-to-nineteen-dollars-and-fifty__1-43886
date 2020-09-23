@@ -1,0 +1,17 @@
+Convert  a number to a string  words like 19.50 to "Nineteen  Dollar And Fifty Cents "
+
+Hello to all PSC users.
+I have updated My submission now it can Convert  a number to a string  words up to 999 billion in American format And also up to 99 Crore in Indian Format. Sorry for the bugs in My previous Version. Thanks for sending Me your comments And Suggestions to Me. You can use it where ever you like. You have all the right for updating this or uploading it to any other server other than PSC. A mention of My name in the code which you use or update or upload  will be greatly appreciated. 
+
+This code is free for all.
+I don’t  request you to vote for Me.
+Please don’t vote for any one without  knowing about the code.
+If you Like this code then vote for Me.
+
+With Love And Prayer
+John Manavalan
+Email: johnmanavalan@hotmail.com
+Web: www.Manavalan.com
+Call Me : +91 487 422353
+          +91 9447002517 ( Send Me TXT Msg )
+
